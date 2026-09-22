@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these materials in teaching, research, or derived work, please cite as below."
+title: "FA516: Chemical and Pharmaceutical Data Science"
+abstract: "Exercise material for FA516, a 5 ECTS bachelor course in chemical and pharmaceutical data science at the University of Southern Denmark. The course is organised as eight tracks covering Python fundamentals, data handling and visualization of chemical datasets, cheminformatics representations such as descriptors and fingerprints, statistical learning, classification, and reproducible machine learning workflows, with voluntary tracks on deep learning and generative modelling. This repository holds the self-study and in-class exercise notebooks."
+authors:
+  - family-names: "Steinmann"
+    given-names: "Casper"
+    affiliation: "CPDSE, University of Southern Denmark"
+    orcid: "https://orcid.org/0000-0002-5638-1346"
+version: "2026.1"
+date-released: "2026-02-01"
+license: CC-BY-4.0
+url: "https://github.com/CPDSE-EDUX/SDU-BSc-FA516-Chemical-and-Pharmaceutical-Data-Science"
+keywords:
+  - teaching
+  - pharmaceutical data science
+  - CPDSE
+  - cheminformatics
+  - machine-learning

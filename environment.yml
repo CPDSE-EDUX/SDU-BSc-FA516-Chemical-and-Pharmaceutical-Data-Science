@@ -1,0 +1,12 @@
+name: fa516
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rdkit
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
