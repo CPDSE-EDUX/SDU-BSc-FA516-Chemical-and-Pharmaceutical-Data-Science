@@ -26,4 +26,4 @@ Video lectures for [FA516 Track 3: Cheminformatics](https://www.youtube.com/play
 
 For each video there is a short exercise in `prepare/`.
 
-**NB: Not ready yet** For each 2 h class there is a worksheet in `class/`
+For each 2 h class there is a worksheet in `class/`
