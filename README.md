@@ -60,6 +60,9 @@ semester.
 | [Track 1: Python Fundamentals](track-1-python/) | Python basics, lists & data structures, cheminformatics with Python, NumPy, SciPy and pandas | 2 | mandatory |
 | [Track 2: Data Science Foundations](track-2-data-science/) | Chemical data types & formats, preprocessing & cleaning, EDA & visualization | 2 | mandatory |
 | [Track 3: Cheminformatics](track-3-cheminformatics/) | SMILES & stereochemistry, molecular descriptors, fingerprints | 2 | mandatory |
+| [Track 4: Statistical Learning](track-4-statistical-learning/) | Linear regression, multiple & polynomial regression | 2 | mandatory |
+| Track 5: Classification | k-NN & decision trees, SVM & random forests | 2 | mandatory |
+| Track 6: ML Workflows | Model selection & cross-validation, feature selection & pipelines, reproducible workflows | 2 | mandatory |
 
 Videos are on YouTube, one playlist per track, linked from each track's README and from
 itslearning.
